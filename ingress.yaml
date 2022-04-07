@@ -1,0 +1,16 @@
+--2022-04-06 14:18:43--  https://k8s.io/examples/service/networking/example-ingress.yaml
+Resolving k8s.io (k8s.io)... 34.107.204.206, 2600:1901:0:26f3::
+Connecting to k8s.io (k8s.io)|34.107.204.206|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://kubernetes.io/examples/service/networking/example-ingress.yaml [following]
+--2022-04-06 14:18:43--  https://kubernetes.io/examples/service/networking/example-ingress.yaml
+Resolving kubernetes.io (kubernetes.io)... 147.75.40.148
+Connecting to kubernetes.io (kubernetes.io)|147.75.40.148|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 390 [application/x-yaml]
+Saving to: ‘example-ingress.yaml’
+
+     0K                                                       100%  130M=0s
+
+2022-04-06 14:18:43 (130 MB/s) - ‘example-ingress.yaml’ saved [390/390]
+
